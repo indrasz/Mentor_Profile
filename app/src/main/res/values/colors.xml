@@ -9,6 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="bg_action_bar">#312651</color>
     <color name="grey">#B5B5B5</color>
+    <color name="grey_200">#F3F4F8</color>
     <color name="grey_500">#858496</color>
 
 </resources>

@@ -5,4 +5,37 @@
     <string name="hint_search_input">Find your favorite mentor</string>
     <string name="button_search">button_search</string>
     <string name="search_input">search input</string>
+    <string name="see_profile">See Profile</string>
+    <string name="experience">UI/UX Designer, Google</string>
+    <string name="mentor_name">Braun Marz</string>
+
+    <string-array name="mentor_name">
+        <item>Braun Marz</item>
+        <item>Uden Yaeger</item>
+        <item>Mira Yokz</item>
+    </string-array>
+
+    <string-array name="mentor_experience">
+        <item>UI/UX Designer</item>
+        <item>UI Designer</item>
+        <item>UI Designer</item>
+    </string-array>
+
+    <string-array name="mentor_workplace">
+        <item>Google</item>
+        <item>Gojek</item>
+        <item>Facebook</item>
+    </string-array>
+
+    <string-array name="mentor_review">
+        <item>9</item>
+        <item>14</item>
+        <item>13</item>
+    </string-array>
+
+    <string-array name="mentor_image">
+        <item>@drawable/mentor1</item>
+        <item>@drawable/mentor2</item>
+        <item>@drawable/mentor3</item>
+    </string-array>
 </resources>
