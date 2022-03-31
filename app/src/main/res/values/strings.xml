@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Mentoring</string>
     <string name="profile_name">Bimo Semesta</string>
+    <string name="greeting">Good Morning,</string>
+    <string name="hint_search_input">Find your favorite mentor</string>
+    <string name="button_search">button_search</string>
+    <string name="search_input">search input</string>
 </resources>
